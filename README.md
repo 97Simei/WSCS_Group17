@@ -10,6 +10,11 @@ This is the repositery for the brane programming project in the UvA Web Service 
 - pipeline.ipynb: brane script of data processing pipeline
 
 ## How to Run Pipeline
+### Set up brane environment
+Please follow the documentation and install the brane in your local machine
+
+https://wiki.enablingpersonalizedinterventions.nl/admins/installation/get-binaries.html
+
 ### Build the packages
 ```
 brane import ZNBai/Compute
