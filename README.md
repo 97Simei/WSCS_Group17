@@ -9,5 +9,5 @@ braneVisualPackage @ f4db112: brane visualization package
 pipeline.ipynb: brane script of data processing pipeline
 
 ## How to Run Pipeline
-### Under the brane-ide(https://github.com/epi-project/brane-ide) file
+### Under the brane-ide(https://github.com/epi-project/brane-ide) folder
 make start-ide BRANE_MOUNT_DFS="path to files"
