@@ -24,4 +24,4 @@ brane push visual_test
 ```
 make start-ide BRANE_MOUNT_DFS="path to files"
 ```
-Then run the pipeline.jupyter.
+Then run the Pipeline.jpynb.
