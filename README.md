@@ -1,4 +1,5 @@
 # WSCS_Group17
+[![DOI](https://zenodo.org/badge/498253114.svg)](https://zenodo.org/badge/latestdoi/498253114)
 ## File Description
 This is the repositery for the brane programming project in the UvA Web Service and Cloud System course.
 
