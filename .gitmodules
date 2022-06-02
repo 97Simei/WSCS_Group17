@@ -1,3 +1,6 @@
 [submodule "braneVisualPackage"]
 	path = braneVisualPackage
 	url = git@github.com:97Simei/braneVisualPackage.git
+[submodule "Compute"]
+	path = Compute
+	url = https://github.com/ZNBai/Compute
